@@ -1,0 +1,26 @@
+[
+  {
+    "key": "sgp",
+    "name": "Saigon Petro"
+  },
+  {
+    "key": "singtec",
+    "name": "Singtec Oil"
+  },
+  {
+    "key": "apo",
+    "name": "AP Oil"
+  },
+  {
+    "key": "tp",
+    "name": "TP Lubricants"
+  },
+  {
+    "key": "caltex",
+    "name": "Caltex"
+  },
+  {
+    "key": "other",
+    "name": "Khác"
+  }
+]

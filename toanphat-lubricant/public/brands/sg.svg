@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <!-- Nền -->
+  <rect width="300" height="200" fill="#e8f0fb"/>
+  <!-- Thân phuy -->
+  <rect x="80" y="35" width="140" height="140" rx="12" fill="#1a3f8f"/>
+  <!-- Bóng sáng bên trái thân -->
+  <rect x="80" y="35" width="28" height="140" rx="12" fill="#2554b8" opacity="0.7"/>
+  <!-- Nắp phuy top -->
+  <ellipse cx="150" cy="35" rx="70" ry="16" fill="#2554b8"/>
+  <!-- Highlight nắp -->
+  <ellipse cx="140" cy="32" rx="35" ry="8" fill="#3a6ad4" opacity="0.6"/>
+  <!-- Đáy phuy -->
+  <ellipse cx="150" cy="175" rx="70" ry="16" fill="#0d2260"/>
+  <!-- Gờ giữa -->
+  <rect x="80" y="90" width="140" height="8" rx="2" fill="#0d2260" opacity="0.6"/>
+  <rect x="80" y="110" width="140" height="8" rx="2" fill="#0d2260" opacity="0.6"/>
+  <!-- Nhãn -->
+  <rect x="95" y="48" width="110" height="75" rx="6" fill="white" opacity="0.95"/>
+  <!-- Logo SP -->
+  <text x="150" y="80" font-family="Arial Black,sans-serif" font-size="22" font-weight="900" fill="#1a3f8f" text-anchor="middle">SP</text>
+  <!-- Dòng tên -->
+  <text x="150" y="97" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" fill="#1a3f8f" text-anchor="middle" letter-spacing="1">SAIGON PETRO</text>
+  <!-- Line trang trí -->
+  <rect x="105" y="103" width="90" height="2" fill="#f5c518" rx="1"/>
+  <!-- Loại dầu ở đáy nhãn -->
+  <text x="150" y="115" font-family="Arial,sans-serif" font-size="7" fill="#555" text-anchor="middle">Lubricants</text>
+  <!-- Dây quai -->
+  <rect x="118" y="28" width="8" height="12" rx="3" fill="#f5c518"/>
+  <rect x="174" y="28" width="8" height="12" rx="3" fill="#f5c518"/>
+  <!-- Volume text -->
+  <text x="150" y="155" font-family="Arial,sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold" opacity="0.85">200 L</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 300 180">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7d4e0e"/>
+      <stop offset="100%" style="stop-color:#f39c12"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="180" fill="url(#g)"/>
+  <!-- oil drop shape -->
+  <ellipse cx="150" cy="95" rx="34" ry="42" fill="rgba(255,255,255,0.12)"/>
+  <ellipse cx="150" cy="72" rx="18" ry="22" fill="rgba(255,255,255,0.12)"/>
+  <!-- can body -->
+  <rect x="118" y="88" width="64" height="58" rx="6" fill="rgba(255,255,255,0.18)" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/>
+  <rect x="128" y="82" width="44" height="14" rx="4" fill="rgba(255,255,255,0.22)" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/>
+  <rect x="138" y="74" width="24" height="12" rx="3" fill="rgba(255,255,255,0.18)"/>
+  <!-- label strip -->
+  <rect x="118" y="108" width="64" height="22" fill="rgba(255,255,255,0.25)"/>
+  <!-- brand text -->
+  <text x="150" y="157" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="rgba(255,255,255,0.9)" text-anchor="middle" letter-spacing="1">TP LUBRICANTS</text>
+  <!-- shine -->
+  <ellipse cx="135" cy="93" rx="6" ry="9" fill="rgba(255,255,255,0.15)" transform="rotate(-20,135,93)"/>
+</svg>

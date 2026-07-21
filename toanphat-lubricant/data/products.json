@@ -1,0 +1,1406 @@
+[
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "banhrang",
+    "name": "SP Gear Oil EP 150",
+    "spec": "Dầu bánh răng CN | ISO VG 150 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-150"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "banhrang",
+    "name": "SP Gear Oil EP 220",
+    "spec": "Dầu bánh răng CN | ISO VG 220 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-220"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "banhrang",
+    "name": "SP Gear Oil EP 320",
+    "spec": "Dầu bánh răng CN | ISO VG 320 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-320"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "banhrang",
+    "name": "SP Gear Oil EP 460",
+    "spec": "Dầu bánh răng CN | ISO VG 460 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-460"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "banhrang",
+    "name": "SP Gear Oil EP 680",
+    "spec": "Dầu bánh răng CN | ISO VG 680 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-680"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "hopso",
+    "name": "SP Gear Oil EP GL-5 80W-90",
+    "spec": "Dầu cầu & vi sai xe tải | API GL-5 SAE 80W-90 | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-gl-5-80w-90"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "hopso",
+    "name": "SP Gear Oil EP GL-5 85W-140",
+    "spec": "Dầu cầu xe tải nặng | API GL-5 SAE 85W-140 | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-gl-5-85w-140"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP HeTran N32",
+    "spec": "Dầu truyền nhiệt | Hệ thống trao đổi nhiệt | ISO VG 32 | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-hetran-n32"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Super Aircol 46",
+    "spec": "Dầu máy nén khí tổng hợp cao cấp | ISO VG 46 | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-super-aircol-46"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Li-MP Grease No.2",
+    "spec": "Mỡ lithium đa dụng chịu cực áp | NLGI No.2 | Ổ lăn, khớp nối | Hộp 15kg / Thùng 180kg",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-li-mp-grease-no-2"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Li-MP Grease No.3",
+    "spec": "Mỡ lithium đa dụng chịu cực áp | NLGI No.3 | Ổ lăn tốc độ thấp | Hộp 15kg / Thùng 180kg",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-li-mp-grease-no-3"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Ca-MP Grease No.2",
+    "spec": "Mỡ calcium đa dụng chống nước | NLGI No.2 | Môi trường ẩm ướt | Hộp 15kg / Thùng 180kg",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-ca-mp-grease-no-2"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Ca-MP Grease No.3",
+    "spec": "Mỡ calcium đa dụng chống nước | NLGI No.3 | Môi trường ẩm ướt | Hộp 15kg / Thùng 180kg",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-ca-mp-grease-no-3"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Wellgo X1 15W-40",
+    "spec": "Dầu diesel xe tải 4 kỳ | API CF-4/SG SAE 15W-40 | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-wellgo-x1-15w-40"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Wellgo X1 20W-50",
+    "spec": "Dầu diesel xe tải 4 kỳ | API CF-4/SG SAE 20W-50 | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-wellgo-x1-20w-50"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Wellgo X3 15W-40",
+    "spec": "Dầu diesel tải siêu nặng EURO III/IV/V | API CI-4 SAE 15W-40 | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-wellgo-x3-15w-40"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "thuyluc",
+    "name": "Singtec Hydraulic AW 46",
+    "spec": "Thủy lực chống mài mòn gốc kẽm cao cấp | ISO VG 46 | AP Saigon Petro | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "singtec-oil-singtec-hydraulic-aw-46"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "thuyluc",
+    "name": "Singtec Hydraulic AW 68",
+    "spec": "Thủy lực chống mài mòn gốc kẽm cao cấp | ISO VG 68 | AP Saigon Petro | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "singtec-oil-singtec-hydraulic-aw-68"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "diesel",
+    "name": "Singtec Diesel X2 20W-50",
+    "spec": "Dầu diesel turbo tăng áp | API CI-4/SL SAE 20W-50 | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "singtec-oil-singtec-diesel-x2-20w-50"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "congnghiep",
+    "name": "AP Vacuum Pump Oil 46",
+    "spec": "Dầu bơm chân không bán tổng hợp | ISO VG 46 | Áp suất hơi thấp | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "ap-oil-ap-vacuum-pump-oil-46"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "congnghiep",
+    "name": "AP Compresso 32",
+    "spec": "Dầu máy nén khí vít xoắn/piston | ISO VG 32 | Chống cacbon hóa | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "ap-oil-ap-compresso-32"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "congnghiep",
+    "name": "AP Compresso 68",
+    "spec": "Dầu máy nén khí vít xoắn/piston | ISO VG 68 | Chống cacbon hóa | Xô 18L / Phuy 200L",
+    "badge": "BÁN CHẠY",
+    "slug": "ap-oil-ap-compresso-68"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "catgot",
+    "name": "AP Soluble EP",
+    "spec": "Dầu cắt gọt pha nước chứa phụ gia cực áp | Tiện, phay, mài | Phuy 200L / Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "ap-oil-ap-soluble-ep"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "thuyluc",
+    "name": "Caltex Rando HD 32",
+    "spec": "Dầu thủy lực chống mài mòn Nhóm II cao cấp | ISO VG 32 | Phuy 208L / Xô 20L",
+    "badge": "BÁN CHẠY",
+    "slug": "caltex-caltex-rando-hd-32"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "catgot",
+    "name": "Caltex Aquatex 3180",
+    "spec": "Dầu cắt gọt pha nước bán tổng hợp đa dụng | Không clo | Xô 18L",
+    "badge": "BÁN CHẠY",
+    "slug": "caltex-caltex-aquatex-3180"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "banhrang",
+    "name": "SP Gear Oil EP GL-4 SAE 90",
+    "spec": "Dầu bánh răng và hộp số | API GL-4 | SAE 90 | Hộp số cơ xe tải",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-gl-4-sae-90"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "xemay",
+    "name": "SP Force 4T 15W-40",
+    "spec": "Dầu xe máy số 4 kỳ | JASO MA2 | SAE 15W-40 | API SL | UltraX Clean",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-force-4t-15w-40"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "xemay",
+    "name": "SP Force 4T Scooter",
+    "spec": "Dầu xe tay ga | JASO MB SJ | SAE 10W-30 | Power Max",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-force-4t-scooter"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "hopso",
+    "name": "SP Gear Oil EP GL-5 80W-90 (Hộp số)",
+    "spec": "Dầu cầu và hộp số | API GL-5 | SAE 80W-90",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-gear-oil-ep-gl-5-80w-90-hop-so"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP N32",
+    "spec": "Dầu tuần hoàn CN | ISO VG 32 | Hệ thống bôi trơn cưỡng bức",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-n32"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Oil 150",
+    "spec": "Dầu máy CN | ISO VG 150 | Ổ bi và trượt | Chống gỉ oxy hóa",
+    "badge": "BÁN CHẠY",
+    "slug": "saigon-petro-sp-oil-150"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "xemay",
+    "name": "AP Super 2T",
+    "spec": "Dầu xe máy 2 kỳ | API TC JASO FC | Giảm khói cặn bám",
+    "badge": "BÁN CHẠY",
+    "slug": "ap-oil-ap-super-2t"
+  },
+  {
+    "brand": "TP LUBRICANTS",
+    "brandKey": "tp",
+    "catKey": "thuyluc",
+    "name": "TP Hydraulic 46 – 200L",
+    "spec": "Dầu thủy lực chống mòn | ISO VG 46 | Phuy 200L",
+    "badge": "CHÍNH HÃNG",
+    "slug": "tp-lubricants-tp-hydraulic-46-200l-2"
+  },
+  {
+    "brand": "TP LUBRICANTS",
+    "brandKey": "tp",
+    "catKey": "thuyluc",
+    "name": "TP Hydraulic 68 – 200L",
+    "spec": "Dầu thủy lực chống mòn | ISO VG 68 | Phuy 200L",
+    "badge": "CHÍNH HÃNG",
+    "slug": "tp-lubricants-tp-hydraulic-68-200l-2"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "thuyluc",
+    "name": "SP Hydraulic AW 46",
+    "spec": "Thủy lực chống mài mòn gốc KẼM (ZDDP) | ISO VG 46 | DIN 51524 HLP | Phuy 200L / Xô 18L",
+    "badge": "CAO CẤP",
+    "slug": "saigon-petro-sp-hydraulic-aw-46"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "thuyluc",
+    "name": "SP Hydraulic AW 68",
+    "spec": "Thủy lực chống mài mòn gốc KẼM (ZDDP) | ISO VG 68 | DIN 51524 HLP | Phuy 200L / Xô 18L",
+    "badge": "CAO CẤP",
+    "slug": "saigon-petro-sp-hydraulic-aw-68"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "xemay",
+    "name": "AP Super 4T Premium SL 10W-40",
+    "spec": "Dầu xe số 4 kỳ bán tổng hợp | API SL / JASO MA2 | Lon 0.8L",
+    "badge": "CAO CẤP",
+    "slug": "ap-oil-ap-super-4t-premium-sl-10w-40"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Wellgo X3 10W-40",
+    "spec": "Dầu diesel xe tải nặng cao cấp | API CK-4/CI-4 Plus | SAE 10W-40",
+    "badge": "CAO CẤP",
+    "slug": "saigon-petro-sp-wellgo-x3-10w-40"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Centur Super Turbo CF-4/SG 15W-40",
+    "spec": "Dầu động cơ diesel turbo | API CF-4/SG | SAE 15W-40",
+    "badge": "CAO CẤP",
+    "slug": "saigon-petro-sp-centur-super-turbo-cf-4-sg-15w-40"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Centur Gold CI-4/SL 20W-50",
+    "spec": "Dầu diesel tải nặng | API CI-4/SL | SAE 20W-50 | Tàu hải sản",
+    "badge": "CAO CẤP",
+    "slug": "saigon-petro-sp-centur-gold-ci-4-sl-20w-50"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "diesel",
+    "name": "Singtec Diesel X3 CI-4 15W-40",
+    "spec": "Dầu diesel nặng cao cấp | API CI-4 | SAE 15W-40 | Euro III IV V",
+    "badge": "CAO CẤP",
+    "slug": "singtec-oil-singtec-diesel-x3-ci-4-15w-40"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "oto",
+    "name": "AP Getoel SL 10W-40",
+    "spec": "Dầu ô tô bán tổng hợp | API SL | SAE 10W-40 | ACEA A3/B4",
+    "badge": "CAO CẤP",
+    "slug": "ap-oil-ap-getoel-sl-10w-40"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "diesel",
+    "name": "AP Turbo CI-4 Plus 15W-40",
+    "spec": "Dầu diesel cao cấp nhất | API CI-4 Plus/SL | SAE 15W-40 | Euro IV V",
+    "badge": "CAO CẤP",
+    "slug": "ap-oil-ap-turbo-ci-4-plus-15w-40"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "thuyluc",
+    "name": "Caltex Rando HD 46",
+    "spec": "Dầu thủy lực chống mài mòn | ISO VG 46 | DIN 51524 HLP",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-rando-hd-46"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "thuyluc",
+    "name": "Caltex Rando HD 68",
+    "spec": "Dầu thủy lực | ISO VG 68 | DIN 51524 HLP",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-rando-hd-68"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "thuyluc",
+    "name": "Caltex Rando HDZ",
+    "spec": "Dầu thủy lực đa cấp chống mài mòn | Nhiệt độ biến động rộng",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-rando-hdz"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "banhrang",
+    "name": "Caltex Meropa 220",
+    "spec": "Dầu bánh răng CN | ISO VG 220 | AGMA 9005",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-meropa-220"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "banhrang",
+    "name": "Caltex Meropa 320",
+    "spec": "Dầu bánh răng | ISO VG 320 | DIN 51517 CLP",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-meropa-320"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "banhrang",
+    "name": "Caltex Meropa 460",
+    "spec": "Dầu bánh răng tải nặng | ISO VG 460",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-meropa-460"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "banhrang",
+    "name": "Caltex Omala S2 G 220",
+    "spec": "Dầu bánh răng kín cao cấp | ISO VG 220",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-omala-s2-g-220"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "banhrang",
+    "name": "Caltex Talcor OGP-4",
+    "spec": "Dầu bánh răng hở không dung môi | Bám dính cao",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-talcor-ogp-4"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "hopso",
+    "name": "Caltex Delo TorqForce SAE 10W",
+    "spec": "Hộp số truyền động cuối | SAE 10W | Caterpillar TO-4",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-delo-torqforce-sae-10w"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "hopso",
+    "name": "Caltex Texamatic 1888",
+    "spec": "Dầu hộp số tự động ATF | Allison C-4 | Voith Turbo",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-texamatic-1888"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Delo Gold Ultra 15W-40",
+    "spec": "Nhớt diesel cao cấp | API CI-4 Plus/SL | SAE 15W-40 | Euro 4 5",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-delo-gold-ultra-15w-40"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Delo 400 XLE 15W-40",
+    "spec": "Nhớt diesel đa năng | API CK-4/SN | SAE 15W-40 | Turbo",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-delo-400-xle-15w-40"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Delo 400 MGX SAE 15W-40",
+    "spec": "Nhớt diesel tải nặng | API CJ-4 | SAE 15W-40",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-delo-400-mgx-sae-15w-40"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Delo Gold Multigrade SAE 15W-40",
+    "spec": "Nhớt diesel đa cấp | API CH-4 | SAE 15W-40",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-delo-gold-multigrade-sae-15w-40"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Delo 1000 Marine",
+    "spec": "Nhớt hàng hải BN12 | Động cơ trung tốc | Nhiên liệu chưng cất",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-delo-1000-marine"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Taro 40 XL",
+    "spec": "Nhớt hàng hải BN40 | Động cơ thấp tốc không bàn trượt",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-taro-40-xl"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Taro 30 DP",
+    "spec": "Nhớt hàng hải BN30 | Nhiên liệu nặng lưu huỳnh đến 4%",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-taro-30-dp"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Taro Special HT 70",
+    "spec": "Dầu xi lanh BN70 | Động cơ thấp tốc nhiệt độ cao",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-taro-special-ht-70"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Veritas 800 Marine",
+    "spec": "Nhớt cao cấp các-te động cơ diesel lớn tốc độ thấp",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-veritas-800-marine"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "oto",
+    "name": "Caltex Havoline Pro DS 10W-30",
+    "spec": "Nhớt ô tô cao cấp | API SN Plus | SAE 10W-30 | ACEA A3",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-havoline-pro-ds-10w-30"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "oto",
+    "name": "Caltex Havoline Energy 5W-30",
+    "spec": "Nhớt ô tô tổng hợp | API SN | SAE 5W-30 | Tiết kiệm xăng",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-havoline-energy-5w-30"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Capella S 32",
+    "spec": "Nhớt máy nén lạnh | ISO VG 32 | R22/R134a",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-capella-s-32"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Capella S 46",
+    "spec": "Nhớt máy nén lạnh | ISO VG 46 | HFC refrigerants",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-capella-s-46"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Capella WF",
+    "spec": "Nhớt máy nén lạnh HFC | Không sáp | Máy nén hydrofluorocarbon",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-capella-wf"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Cetus DE",
+    "spec": "Nhớt máy nén tổng hợp diester | Chống oxy hóa không tro",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-cetus-de"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Cetus HiperSyN",
+    "spec": "Dầu máy nén tổng hợp | Tuổi thọ cao",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-cetus-hipersyn"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Turbine Oil T 32",
+    "spec": "Dầu tuabin | ISO VG 32 | ISO 8068 | Chống oxy hóa",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-turbine-oil-t-32"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex GST Oil",
+    "spec": "Dầu tuabin hiệu suất cao | Phê duyệt nhà sản xuất tuabin lớn",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-gst-oil"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Texatherm HT 22",
+    "spec": "Chất lỏng truyền nhiệt tổng hợp | Nhiệt độ dải rộng",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-texatherm-ht-22"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Delo Starplex EP",
+    "spec": "Mỡ đa dụng lithium phức hợp | NLGI 2 | Ổ bi xe và khung gầm",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-delo-starplex-ep"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex SRI Grease",
+    "spec": "Mỡ polyurea tổng hợp | Tốc độ cao | Chống oxy hóa rỉ sét",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-sri-grease"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex GST Advantage RO VARTECH",
+    "spec": "Dầu tuabin VARTECH | Giảm cặn vecni",
+    "badge": "CAO CẤP",
+    "slug": "caltex-caltex-gst-advantage-ro-vartech"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "banhrang",
+    "name": "SP Gear Oil EP 100",
+    "spec": "Dầu bánh răng CN | ISO VG 100 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-gear-oil-ep-100"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "hopso",
+    "name": "SP Gear Oil GL-4 SAE 90",
+    "spec": "Dầu hộp số tay / cầu chủ động | API GL-4 SAE 90 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "saigon-petro-sp-gear-oil-gl-4-sae-90"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Circulating Oil 32",
+    "spec": "Dầu tuần hoàn CN | ISO VG 32 | Chống oxy hóa, chống tạo bọt | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-circulating-oil-32"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Circulating Oil 46",
+    "spec": "Dầu tuần hoàn CN | ISO VG 46 | Chống oxy hóa, chống tạo bọt | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-circulating-oil-46"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Circulating Oil 68",
+    "spec": "Dầu tuần hoàn CN | ISO VG 68 | Chống oxy hóa, chống tạo bọt | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-circulating-oil-68"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Super Waylube 68",
+    "spec": "Dầu khe trượt cao cấp | ISO VG 68 | Cincinnati Milacron P-47 | Máy CNC, máy mài | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-super-waylube-68"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Super Waylube 220",
+    "spec": "Dầu khe trượt cao cấp | ISO VG 220 | Máy CNC lớn, máy mài | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-super-waylube-220"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Premium Vacuum Pump Oil 32",
+    "spec": "Dầu bơm chân không bán tổng hợp | ISO VG 32 | Leybold, Edwards, Busch | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-premium-vacuum-pump-oil-32"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Hot Quencho 22",
+    "spec": "Dầu tôi kim loại nóng | ISO VG 22 | Tôi thép carbon & hợp kim | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-hot-quencho-22"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Turbine Oil 32",
+    "spec": "Dầu turbin hơi nước/khí | ISO VG 32 | DIN 51515 L-TD / GEK-32568F | Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-turbine-oil-32"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Turbine Oil 46",
+    "spec": "Dầu turbin hơi nước/khí | ISO VG 46 | DIN 51515 L-TD | Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-turbine-oil-46"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Aircol 46",
+    "spec": "Dầu máy nén khí vít xoắn | ISO VG 46 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "saigon-petro-sp-aircol-46"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP Transformer Oil",
+    "spec": "Dầu biến áp cách điện | IEC 60296 / TCVN 5360 | Phuy 200L / Can 20L",
+    "badge": "",
+    "slug": "saigon-petro-sp-transformer-oil"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "catgot",
+    "name": "SP E-Cut Soft 15",
+    "spec": "Dầu cắt gọt pha nước bán tổng hợp | Không clo, không bọt | Tiện, phay, khoan | Xô 18L",
+    "badge": "",
+    "slug": "saigon-petro-sp-e-cut-soft-15"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "catgot",
+    "name": "SP E-Cut Soft 32",
+    "spec": "Dầu cắt gọt pha nước đa dụng | Pha 1:10–1:20 | Không kích ứng da | Xô 18L",
+    "badge": "",
+    "slug": "saigon-petro-sp-e-cut-soft-32"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Wellgo X2 15W-40",
+    "spec": "Dầu diesel turbo tăng áp EURO III/IV | API CI-4/SL SAE 15W-40 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "saigon-petro-sp-wellgo-x2-15w-40"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Centur SC/CC 40",
+    "spec": "Dầu động cơ thông dụng xe tải cũ | API SC/CC SAE 40 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "saigon-petro-sp-centur-sc-cc-40"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "oto",
+    "name": "SP Super Lube SG/CD 20W-50",
+    "spec": "Dầu động cơ đa dụng xăng & diesel | API SG/CD SAE 20W-50 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "saigon-petro-sp-super-lube-sg-cd-20w-50"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "xemay",
+    "name": "SP Super Mobi 4T 20W-50",
+    "spec": "Dầu xe máy số 4 kỳ | API SL | JASO MA2 | Lon 0.8L / 1L",
+    "badge": "",
+    "slug": "saigon-petro-sp-super-mobi-4t-20w-50"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "xemay",
+    "name": "SP Super Mobi Scooter 10W-30",
+    "spec": "Dầu xe tay ga 4 kỳ bán tổng hợp | API SL | JASO MB | Lon 0.8L",
+    "badge": "",
+    "slug": "saigon-petro-sp-super-mobi-scooter-10w-30"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "banhrang",
+    "name": "Singtec Gear Oil EP 100",
+    "spec": "Dầu bánh răng CN | ISO VG 100 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-gear-oil-ep-100"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "banhrang",
+    "name": "Singtec Gear Oil EP 150",
+    "spec": "Dầu bánh răng CN | ISO VG 150 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-gear-oil-ep-150"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "banhrang",
+    "name": "Singtec Gear Oil EP 220",
+    "spec": "Dầu bánh răng CN | ISO VG 220 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-gear-oil-ep-220"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "banhrang",
+    "name": "Singtec Gear Oil EP 320",
+    "spec": "Dầu bánh răng CN | ISO VG 320 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-gear-oil-ep-320"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "banhrang",
+    "name": "Singtec Gear Oil EP 460",
+    "spec": "Dầu bánh răng CN | ISO VG 460 | API GL-4 | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-gear-oil-ep-460"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "hopso",
+    "name": "Singtec Gear Oil API GL-5 80W-90",
+    "spec": "Dầu cầu & vi sai xe tải | API GL-5 SAE 80W-90 | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-gear-oil-api-gl-5-80w-90"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "hopso",
+    "name": "Singtec Gear Oil API GL-5 85W-140",
+    "spec": "Dầu cầu xe tải nặng | API GL-5 SAE 85W-140 | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-gear-oil-api-gl-5-85w-140"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "congnghiep",
+    "name": "Singtec Circulating Oil 46",
+    "spec": "Dầu tuần hoàn CN | ISO VG 46 | Chống oxy hóa, chống tạo bọt | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-circulating-oil-46"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "congnghiep",
+    "name": "Singtec Circulating Oil 68",
+    "spec": "Dầu tuần hoàn CN | ISO VG 68 | Chống oxy hóa, chống tạo bọt | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-circulating-oil-68"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "congnghiep",
+    "name": "Singtec Waylube 68",
+    "spec": "Dầu khe trượt máy công cụ | ISO VG 68 | Chống kết dính stick-slip | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-waylube-68"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "congnghiep",
+    "name": "Singtec Vacuum Pump Oil 46",
+    "spec": "Dầu bơm chân không | ISO VG 46 | Áp suất hơi thấp, ổn định nhiệt | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-vacuum-pump-oil-46"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "catgot",
+    "name": "Singtec Soluble Oil",
+    "spec": "Dầu cắt gọt pha nước đa dụng | Tiện, phay, mài | Bảo vệ máy, không gỉ | Xô 18L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-soluble-oil"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "diesel",
+    "name": "Singtec Diesel X1 15W-40",
+    "spec": "Dầu diesel xe tải 4 kỳ | API CF-4/SG SAE 15W-40 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-diesel-x1-15w-40"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "diesel",
+    "name": "Singtec Diesel X1 20W-50",
+    "spec": "Dầu diesel xe tải 4 kỳ | API CF-4/SG SAE 20W-50 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-diesel-x1-20w-50"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "diesel",
+    "name": "Singtec Diesel X2 15W-40",
+    "spec": "Dầu diesel turbo tăng áp | API CI-4/SL SAE 15W-40 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-diesel-x2-15w-40"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "diesel",
+    "name": "Singtec Diesel X3 20W-50",
+    "spec": "Dầu diesel tải siêu nặng | API CI-4 SAE 20W-50 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "singtec-oil-singtec-diesel-x3-20w-50"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "thuyluc",
+    "name": "AP Hydraulic AW 46",
+    "spec": "Dầu thủy lực không kẽm | ISO VG 46 | ISO 11158 HM | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "ap-oil-ap-hydraulic-aw-46"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "thuyluc",
+    "name": "AP Hydraulic AW 68",
+    "spec": "Dầu thủy lực gốc kẽm | ISO VG 68 | ISO 11158 HM | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "ap-oil-ap-hydraulic-aw-68"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "thuyluc",
+    "name": "AP Hydraulic HVI 46",
+    "spec": "Dầu thủy lực chỉ số độ nhớt cao | ISO VG 46 | DIN 51524 HVLP | Dải nhiệt rộng | Phuy 200L",
+    "badge": "",
+    "slug": "ap-oil-ap-hydraulic-hvi-46"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "banhrang",
+    "name": "AP Gear Oil EP 220",
+    "spec": "Dầu bánh răng CN | ISO VG 220 | API GL-4 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "ap-oil-ap-gear-oil-ep-220"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "banhrang",
+    "name": "AP Gear Oil EP 320",
+    "spec": "Dầu bánh răng CN | ISO VG 320 | API GL-4 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "ap-oil-ap-gear-oil-ep-320"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "banhrang",
+    "name": "AP Gear Oil EP 460",
+    "spec": "Dầu bánh răng CN | ISO VG 460 | API GL-4 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "ap-oil-ap-gear-oil-ep-460"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "hopso",
+    "name": "AP Axle & Gear GL-5 85W-90",
+    "spec": "Dầu cầu & hộp số xe tải | API GL-5 SAE 85W-90 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "ap-oil-ap-axle-gear-gl-5-85w-90"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "congnghiep",
+    "name": "AP Compresso 46",
+    "spec": "Dầu máy nén khí vít xoắn/piston | ISO VG 46 | Chống cacbon hóa | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "ap-oil-ap-compresso-46"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "congnghiep",
+    "name": "AP Circulating Oil 46",
+    "spec": "Dầu tuần hoàn CN AP | ISO VG 46 | Chống oxy hóa, chống mài mòn | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "ap-oil-ap-circulating-oil-46"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "congnghiep",
+    "name": "AP Circulating Oil 68",
+    "spec": "Dầu tuần hoàn CN AP | ISO VG 68 | Chống oxy hóa, chống mài mòn | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "ap-oil-ap-circulating-oil-68"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "congnghiep",
+    "name": "AP Way Oil 68",
+    "spec": "Dầu khe trượt máy công cụ AP | ISO VG 68 | Chống dính, trơn trượt | Xô 18L / Phuy 200L",
+    "badge": "",
+    "slug": "ap-oil-ap-way-oil-68"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "diesel",
+    "name": "AP Super Turbo CF-4 15W-40",
+    "spec": "Dầu diesel xe tải | API CF-4 SAE 15W-40 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "ap-oil-ap-super-turbo-cf-4-15w-40"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "diesel",
+    "name": "AP Super Turbo CI-4 15W-40",
+    "spec": "Dầu diesel tải siêu nặng | API CI-4 SAE 15W-40 | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "ap-oil-ap-super-turbo-ci-4-15w-40"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "xemay",
+    "name": "AP Moto 4T Scooter 10W-40",
+    "spec": "Dầu xe tay ga 4 kỳ | API SL / JASO MB | Lon 0.8L",
+    "badge": "",
+    "slug": "ap-oil-ap-moto-4t-scooter-10w-40"
+  },
+  {
+    "brand": "PPK",
+    "brandKey": "other",
+    "catKey": "thuyluc",
+    "name": "PPK Hydraulic 68 (Xô đỏ)",
+    "spec": "Dầu thủy lực CN | ISO VG 68 | Xô 18L",
+    "badge": "",
+    "slug": "ppk-ppk-hydraulic-68-xo-o"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "thuyluc",
+    "name": "SP Hydraulic AW 32",
+    "spec": "Thủy lực chống mài mòn gốc kẽm | ISO VG 32 | DIN 51524 HLP | Phuy 200L / Xô 18L",
+    "badge": "",
+    "slug": "saigon-petro-sp-hydraulic-aw-32"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "thuyluc",
+    "name": "SP Hydraulic AW 100",
+    "spec": "Thủy lực chống mài mòn | ISO VG 100 | DIN 51524 HLP | Phuy 200L",
+    "badge": "",
+    "slug": "saigon-petro-sp-hydraulic-aw-100"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "thuyluc",
+    "name": "SP Hydraulic AW 220",
+    "spec": "Thủy lực chống mài mòn | ISO VG 220 | DIN 51524 HLP | Hệ thống bánh răng thủy lực tải nặng",
+    "badge": "",
+    "slug": "saigon-petro-sp-hydraulic-aw-220"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "diesel",
+    "name": "SP Centur CD/SF 20W-50",
+    "spec": "Dầu động cơ diesel và xăng | API CD/SF | SAE 20W-50",
+    "badge": "",
+    "slug": "saigon-petro-sp-centur-cd-sf-20w-50"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "xemay",
+    "name": "SP Super Force 2T",
+    "spec": "Dầu xe máy 2 kỳ | API TC JASO FC | Giảm khói và cặn bám",
+    "badge": "",
+    "slug": "saigon-petro-sp-super-force-2t"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "hopso",
+    "name": "SP ATF Dexron III",
+    "spec": "Dầu hộp số tự động | Dexron III/Mercon | Xe du lịch",
+    "badge": "",
+    "slug": "saigon-petro-sp-atf-dexron-iii"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "congnghiep",
+    "name": "SP UTTO 10W-30",
+    "spec": "Dầu truyền động đa năng máy nông nghiệp | SAE 10W-30 | Kubota John Deere",
+    "badge": "",
+    "slug": "saigon-petro-sp-utto-10w-30"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "oto",
+    "name": "SP Super Lube SG/CD 10W-30",
+    "spec": "Dầu ô tô xăng/diesel | API SG/CD | SAE 10W-30",
+    "badge": "",
+    "slug": "saigon-petro-sp-super-lube-sg-cd-10w-30"
+  },
+  {
+    "brand": "SAIGON PETRO",
+    "brandKey": "sgp",
+    "catKey": "oto",
+    "name": "SP Super Lube SG/CD 15W-40",
+    "spec": "Dầu ô tô đa năng | API SG/CD | SAE 15W-40",
+    "badge": "",
+    "slug": "saigon-petro-sp-super-lube-sg-cd-15w-40"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "thuyluc",
+    "name": "Singtec Hydraulic AW 32",
+    "spec": "Dầu thủy lực chống mài mòn | ISO VG 32 | DIN 51524 HLP",
+    "badge": "",
+    "slug": "singtec-oil-singtec-hydraulic-aw-32"
+  },
+  {
+    "brand": "SINGTEC OIL",
+    "brandKey": "singtec",
+    "catKey": "thuyluc",
+    "name": "Singtec Hydraulic AW 100",
+    "spec": "Dầu thủy lực | ISO VG 100 | Máy ép công suất lớn",
+    "badge": "",
+    "slug": "singtec-oil-singtec-hydraulic-aw-100"
+  },
+  {
+    "brand": "AP OIL",
+    "brandKey": "apo",
+    "catKey": "hopso",
+    "name": "AP Getoel EP GL-5 80W-90",
+    "spec": "Dầu cầu hộp số | API GL-5 | SAE 80W-90",
+    "badge": "",
+    "slug": "ap-oil-ap-getoel-ep-gl-5-80w-90"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "thuyluc",
+    "name": "Caltex Rando HD 100",
+    "spec": "Dầu thủy lực | ISO VG 100 | Máy ép CN nặng",
+    "badge": "",
+    "slug": "caltex-caltex-rando-hd-100"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "thuyluc",
+    "name": "Caltex Rando MV",
+    "spec": "Dầu thủy lực đa cấp chống mài mòn | Nhiệt độ và môi trường biến thiên",
+    "badge": "",
+    "slug": "caltex-caltex-rando-mv"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "catgot",
+    "name": "Caltex Bright-Cut AH",
+    "spec": "Dầu cắt gọt không clorua | Kim loại màu và đen",
+    "badge": "",
+    "slug": "caltex-caltex-bright-cut-ah"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "banhrang",
+    "name": "Caltex Meropa 680",
+    "spec": "Dầu bánh răng tốc độ thấp | ISO VG 680",
+    "badge": "",
+    "slug": "caltex-caltex-meropa-680"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "hopso",
+    "name": "Caltex Delo Gear EP-4 SAE 90",
+    "spec": "Nhớt đa dụng cầu và hộp số | API GL-4 | SAE 90",
+    "badge": "",
+    "slug": "caltex-caltex-delo-gear-ep-4-sae-90"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "hopso",
+    "name": "Caltex Delo Gear EP-5 SAE 80W-90",
+    "spec": "Dầu cầu và hộp số | API GL-5 | SAE 80W-90",
+    "badge": "",
+    "slug": "caltex-caltex-delo-gear-ep-5-sae-80w-90"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "hopso",
+    "name": "Caltex Gear Oil EP 80W-90",
+    "spec": "Dầu cầu xe tải và xe con | API GL-5 | SAE 80W-90",
+    "badge": "",
+    "slug": "caltex-caltex-gear-oil-ep-80w-90"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "hopso",
+    "name": "Caltex Gear Oil EP 85W-140",
+    "spec": "Dầu cầu xe tải hạng nặng | API GL-5 | SAE 85W-140",
+    "badge": "",
+    "slug": "caltex-caltex-gear-oil-ep-85w-140"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Delo Silver Multigrade SAE 20W-50",
+    "spec": "Nhớt diesel đa cấp | API CF-4/CF/SG | SAE 20W-50",
+    "badge": "",
+    "slug": "caltex-caltex-delo-silver-multigrade-sae-20w-50"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "diesel",
+    "name": "Caltex Delo Silver SAE 40",
+    "spec": "Nhớt diesel đơn cấp | API CF/SF | SAE 40",
+    "badge": "",
+    "slug": "caltex-caltex-delo-silver-sae-40"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "oto",
+    "name": "Caltex Havoline 20W-50",
+    "spec": "Nhớt ô tô khoáng | API SL | SAE 20W-50 | Phổ thông",
+    "badge": "",
+    "slug": "caltex-caltex-havoline-20w-50"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Compressor Oil EP VDL",
+    "spec": "Nhớt máy nén gốc khoáng hiệu năng cao | Phụ gia EP",
+    "badge": "",
+    "slug": "caltex-caltex-compressor-oil-ep-vdl"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Regal R&O",
+    "spec": "Dầu tuabin tuần hoàn | ISO VG 32–100 | Chống gỉ oxy hóa",
+    "badge": "",
+    "slug": "caltex-caltex-regal-r-o"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Canopus",
+    "spec": "Dầu tuần hoàn gốc khoáng | Bôi trơn phổ dụng",
+    "badge": "",
+    "slug": "caltex-caltex-canopus"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Texatherm",
+    "spec": "Chất lỏng truyền nhiệt | Hệ thống hở và kín | Chống oxy hóa",
+    "badge": "",
+    "slug": "caltex-caltex-texatherm"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Multifak EP",
+    "spec": "Mỡ chịu cực áp đa dụng | Lithium gốc khoáng | NLGI 2",
+    "badge": "",
+    "slug": "caltex-caltex-multifak-ep"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Multifak Moly EP",
+    "spec": "Mỡ cực áp có Moly | Xây dựng khai thác nông nghiệp | NLGI 2",
+    "badge": "",
+    "slug": "caltex-caltex-multifak-moly-ep"
+  },
+  {
+    "brand": "CALTEX",
+    "brandKey": "caltex",
+    "catKey": "congnghiep",
+    "name": "Caltex Marfak",
+    "spec": "Mỡ đa dụng lithium | Ô tô và CN không cần EP | NLGI 2/3",
+    "badge": "",
+    "slug": "caltex-caltex-marfak"
+  }
+]

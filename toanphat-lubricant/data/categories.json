@@ -1,0 +1,34 @@
+[
+  {
+    "key": "thuyluc",
+    "name": "Dầu thủy lực"
+  },
+  {
+    "key": "banhrang",
+    "name": "Dầu bánh răng"
+  },
+  {
+    "key": "hopso",
+    "name": "Dầu hộp số / cầu"
+  },
+  {
+    "key": "congnghiep",
+    "name": "Dầu công nghiệp"
+  },
+  {
+    "key": "catgot",
+    "name": "Dầu cắt gọt"
+  },
+  {
+    "key": "diesel",
+    "name": "Dầu động cơ Diesel"
+  },
+  {
+    "key": "oto",
+    "name": "Dầu động cơ ô tô"
+  },
+  {
+    "key": "xemay",
+    "name": "Dầu xe máy"
+  }
+]

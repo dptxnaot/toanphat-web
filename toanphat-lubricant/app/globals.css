@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html { scroll-behavior: smooth; }
+body { @apply bg-[#f5f6f8] text-[#1a2332]; }
+*:focus-visible { @apply outline-none ring-2 ring-green/50 ring-offset-2; }
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { @apply bg-gray-100; }
+::-webkit-scrollbar-thumb { @apply bg-gray-300 rounded-full; }
+::-webkit-scrollbar-thumb:hover { @apply bg-green/60; }
+::selection { @apply bg-green text-white; }
+.section-label { @apply inline-block bg-green-4 text-green text-[11px] font-extrabold tracking-widest uppercase px-3 py-1 rounded mb-2; }
+.btn-primary { @apply bg-amber text-green-2 px-6 py-3 rounded-md font-extrabold text-sm inline-flex items-center gap-2 hover:bg-amber-2 transition; }
+.btn-outline { @apply bg-transparent text-white px-6 py-3 rounded-md font-extrabold text-sm border-2 border-white/40 inline-flex items-center gap-2 hover:border-white hover:bg-white/10 transition; }
+img { @apply transition-opacity duration-300; }

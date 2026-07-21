@@ -1,0 +1,13 @@
+{
+  "name": "Toàn Phát Lubricant",
+  "short_name": "Toàn Phát",
+  "description": "Phân phối dầu nhớt chính hãng Saigon Petro, Singtec, AP Oil, Caltex",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#1e6b2e",
+  "icons": [
+    { "src": "/logo.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "/logo.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
