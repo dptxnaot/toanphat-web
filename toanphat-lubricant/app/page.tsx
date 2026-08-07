@@ -56,7 +56,7 @@ export default function HomePage() {
       <section className="px-7 py-14 bg-white border-t border-gray-100">
         <AnimateIn><div className="text-center mb-9"><span className="section-label">Tại Sao Chọn Chúng Tôi</span><h2 className="text-3xl font-black">Toàn Phát – <span className="text-green">Uy Tín Hàng Đầu</span></h2></div></AnimateIn>
         <AnimateStagger className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
-          {[{I:ShieldCheck,t:"Hàng Chính Hãng 100%",d:"Phân phối trực tiếp từ nhà sản xuất, đảm bảo nguồn gốc rõ ràng."},{I:Truck,t:"Giao Hàng Toàn Quốc",d:"Cam kết đúng hẹn, đủ số lượng, an toàn."},{I:DollarSign,t:"Giá Cạnh Tranh",d:"Nhập trực tiếp không qua trung gian, ưu đãi đại lý."},{I:Wrench,t:"Tư Vấn Chuyên Sâu",d:"Kỹ thuật viên tư vấn đúng loại dầu phù hợp."}].map(({I,t,d})=>(
+          {[{I:ShieldCheck,t:"Hàng Chính Hãng 100%",d:"Phân phối trực tiếp từ nhà sản xuất, đảm bảo nguồn gốc rõ ràng."},{I:Truck,t:"Giao Hàng Nhanh Chóng",d:"Phục vụ TP.HCM và các tỉnh lân cận, cam kết đúng hẹn và an toàn."},{I:DollarSign,t:"Giá Cạnh Tranh",d:"Nhập trực tiếp không qua trung gian, ưu đãi đại lý."},{I:Wrench,t:"Tư Vấn Chuyên Sâu",d:"Kỹ thuật viên tư vấn đúng loại dầu phù hợp."}].map(({I,t,d})=>(
             <AnimateStaggerItem key={t}>
               <div className="bg-gray-50 rounded-xl p-6 text-center hover:shadow-md transition h-full">
                 <div className="w-12 h-12 mx-auto mb-3 flex items-center justify-center rounded-lg bg-green-4"><I className="text-green" size={22}/></div>
