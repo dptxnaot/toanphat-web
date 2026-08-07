@@ -13,7 +13,7 @@ export default function Header() {
       <div className="bg-green-2 text-white/85 text-xs px-7 py-2 flex justify-between flex-wrap gap-2">
         <div className="flex gap-5">
           <a href="tel:0911472286" className="font-semibold hover:text-white transition">Hotline: 0911.472.286 – 0913.391.453</a>
-          <span className="hidden sm:inline">Giao hàng toàn quốc</span>
+          <span className="hidden sm:inline">Giao hàng TP.HCM và lân cận</span>
         </div>
         <div className="hidden sm:block">Phân phối chính hãng Saigon Petro – Singtec – AP Oil – TP Lubricants</div>
       </div>
