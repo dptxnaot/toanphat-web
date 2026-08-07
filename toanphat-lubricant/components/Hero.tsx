@@ -15,7 +15,7 @@ export default function Hero() {
             <Link href="/tu-van" className="btn-outline"><Phone size={16}/> Tư Vấn Chọn Dầu</Link>
           </div>
           <div className="flex gap-8 mt-10 flex-wrap">
-            {[["200+","Sản Phẩm"],["6","Thương Hiệu"],["63","Tỉnh Thành"]].map(([n,l])=>(
+            {[["200+","Sản Phẩm"],["6","Thương Hiệu"],["15+","Năm Kinh Nghiệm"]].map(([n,l])=>(
               <div key={l}><div className="text-3xl font-black text-amber">{n}</div><div className="text-[11px] text-white/70 uppercase tracking-wide font-semibold">{l}</div></div>
             ))}
           </div>
