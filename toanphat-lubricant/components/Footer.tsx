@@ -22,7 +22,7 @@ export default function Footer() {
             CÔNG TY TNHH SX TM<br />DẦU NHỚT TOÀN PHÁT
           </div>
           <p className="text-sm leading-relaxed mb-4">
-            Nhà phân phối chính hãng Saigon Petro, Singtec Oil, AP Oil, TP Lubricants. Cung cấp thêm Caltex, Shell, Castrol.
+            Nhà phân phối chính hãng Saigon Petro, Singtec Oil, AP Oil, TP Lubricants. Giao hàng TP.HCM và các tỉnh lân cận.
           </p>
           {/* Social links */}
           <div className="flex gap-3">
