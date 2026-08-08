@@ -12,7 +12,7 @@ export default function LienHePage() {
               <div key={lb as string} className="flex items-start gap-3"><span className="text-xl">{ic}</span><div><div className="font-bold text-gray-800 mb-0.5">{lb}</div><div>{val}</div></div></div>
             ))}
           </div>
-          <div className="rounded-xl overflow-hidden border border-gray-200 h-56"><iframe title="Bản đồ" src="https://maps.google.com/maps?q=689+Huong+Lo+2+Binh+Tri+Dong+Ho+Chi+Minh&output=embed&hl=vi&z=15" width="100%" height="100%" style={{border:0}} loading="lazy" allowFullScreen/></div>
+          <div className="rounded-xl overflow-hidden border border-gray-200 h-56"><iframe title="Bản đồ" src="https://maps.app.goo.gl/NTwRKB5VVBioWNX89" width="100%" height="100%" style={{border:0}} loading="lazy" allowFullScreen/></div>
         </div>
         <ContactForm/>
       </div>
