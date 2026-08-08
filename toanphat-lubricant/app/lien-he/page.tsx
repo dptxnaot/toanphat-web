@@ -12,7 +12,7 @@ export default function LienHePage() {
               <div key={lb as string} className="flex items-start gap-3"><span className="text-xl">{ic}</span><div><div className="font-bold text-gray-800 mb-0.5">{lb}</div><div>{val}</div></div></div>
             ))}
           </div>
-          <div className="rounded-xl overflow-hidden border border-gray-200 h-56"><iframe title="Bản đồ" src="https://maps.app.goo.gl/NTwRKB5VVBioWNX89" width="100%" height="100%" style={{border:0}} loading="lazy" allowFullScreen/></div>
+          <div className="rounded-xl overflow-hidden border border-gray-200 h-56"><iframe title="Bản đồ" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.5857745781263!2d106.60606177576061!3d10.766372789381812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752d004b8af68f%3A0x5706d77a912d38bb!2zQ8O0bmcgVHkgVE5ISCBTWCBUTSBE4bqndSBOaOG7m3QgVG_DoG4gUGjDoXQ!5e0!3m2!1svi!2s!4v1786216242542!5m2!1svi!2s" width="100%" height="100%" style={{border:0}} loading="lazy" allowFullScreen/></div>
         </div>
         <ContactForm/>
       </div>
